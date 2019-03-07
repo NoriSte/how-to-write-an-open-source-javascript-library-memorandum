@@ -1,7 +1,7 @@
 How to Write an Open Source JavaScript Library - memorandum
 
 This is a memorandum of the evergreen [Kent C. Dodds](https://kentcdodds.com) course about [How to Write an Open Source JavaScript Library](https://egghead.io/courses/how-to-write-an-open-source-javascript-library) available for free on Egghead.
-I haven't annotated everything that has been treated in the course, I annotated just the things that I need to remember compared to what I'd already consolidated 😉
+I didn't annotated everything that has been treated in the course. Instead, I annotated just the things that I need to remember compared to what I'd already consolidated 😉
 
 - Add the author and license information
 ```
