@@ -32,7 +32,7 @@ yarn add [package] --exact
   npm install [package]@x.y.x-beta.0
   ```
 
-- Install locally `commitizen` and `cz-conventional-changelog`
+- Install locally `commitizen` and `cz-conventional-changelog`<br>
 p.s. Checking on the commitizen site the new way to install them is the following
 ```
 npx commitizen init cz-conventional-changelog --save-dev --save-exact
@@ -40,7 +40,7 @@ npx commitizen init cz-conventional-changelog --save-dev --save-exact
 And you can then add some nice npm run scripts in your package.json pointing to the local version of commitizen (if you aren't using husky and precommit):
 ```json
 "scripts": {
-  "commit": "git-cz"
+  "commit": "npx git-cz"
 }
 ```
 And you can add the Citizen badge too
