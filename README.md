@@ -49,6 +49,7 @@ And you can add the Citizen badge too
 ```
 Take a look at the whole [conventionalcommits specs](https://www.conventionalcommits.org) to learn more about it.
 
-Last but not least: take a look at the [standard-version library](https://github.com/conventional-changelog/standard-version)
+Last but not least:
 
+- take a look at the [standard-version library](https://github.com/conventional-changelog/standard-version)
 - You can find a long list of badges on [shields.io](https://shields.io)
